@@ -1,0 +1,4 @@
+* also called a hash tree 
+* tree in which every leaf node is labelled with crypto hash of a data block
+* can be used to verify any kind of data 
+
